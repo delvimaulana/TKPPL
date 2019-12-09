@@ -31,5 +31,8 @@
   },
   "engines": {
     "node": ">=4.2.0"
+  },
+  "dependencies": {
+    "bespoke-theme-atomantic": "^2.2.4"
   }
 }
